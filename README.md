@@ -1,1 +1,1 @@
-This is a WebApplication built on Java.
+This is a spring Boot application which handles form input
